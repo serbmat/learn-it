@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang='en'>
+<head>
+    <script>
+        window.location.href = "http://www.itstep.org";
+    </script>
+</head>
+<body>
+</body>
+</html>
